@@ -15,7 +15,7 @@ ff
 ## Contributing
 d
 Contributions are welcome in the form of GitHub pull requests. However, the
-`pantheon-upstreams/drupal-composer-managed` repository is a mirror that does notff
+`pantheon-upstreams/drupal-composer-managed` repository is a mirror that does notffhh
 directly accept pull requests.
 
 Instead, to propose a change, please fork [pantheon-systems/drupal-composer-managed](https://github.com/pantheon-systems/drupal-composer-managed)
