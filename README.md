@@ -17,6 +17,6 @@ Integrated Composer Pantheon documentation: https://pantheon.io/docs/integrated-
 Contributions are welcome in the form of GitHub pull requests. However, the
 `pantheon-upstreams/drupal-composer-managed` repository is a mirror that does notff
 directly accept pull requests.
-
+ee
 Instead, to propose a change, please fork [pantheon-systems/drupal-composer-managed](https://github.com/pantheon-systems/drupal-composer-managed)
 and submit a PR to that repository.
