@@ -9,7 +9,7 @@ unlikely to adjust while building sites are not in the main branch of the
 repository. Instead, they are referenced as dependencies that are installed by
 Composer.gt
 
-For more information and detailed installation guides, please visit thed
+For more information and detailed installation guides, please visit the
 Integrated Composer Pantheon documentation: https://pantheon.io/docs/integrated-composer
 
 ## Contributing
