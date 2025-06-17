@@ -7,7 +7,7 @@ Platform's standard Drupal 9 upstream.
 Unlike with earlier Pantheon upstreams, files such as Drupal Core that you are
 unlikely to adjust while building sites are not in the main branch of the 
 repository. Instead, they are referenced as dependencies that are installed by
-Composer.gt
+Composer.
 
 For more information and detailed installation guides, please visit thed
 Integrated Composer Pantheon documentation: https://pantheon.io/docs/integrated-composer
@@ -15,7 +15,7 @@ Integrated Composer Pantheon documentation: https://pantheon.io/docs/integrated-
 ## Contributing
 
 Contributions are welcome in the form of GitHub pull requests. However, the
-`pantheon-upstreams/drupal-composer-managed` repository is a mirror that does notff
+`pantheon-upstreams/drupal-composer-managed` repository is a mirror that does not
 directly accept pull requests.
 
 Instead, to propose a change, please fork [pantheon-systems/drupal-composer-managed](https://github.com/pantheon-systems/drupal-composer-managed)
